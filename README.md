@@ -1,2 +1,2 @@
 # salestaxes
-Sales Taxes problem with Java
+Sales Taxes coding test with Java
